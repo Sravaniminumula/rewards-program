@@ -1,0 +1,27 @@
+{ "data" : [
+        {
+            "id": 1,
+            "name": "cha",
+            "amount": 120,
+            "date": "01-01-2020"
+        },
+        {
+            "id": 2,
+            "name": "sra",
+            "amount": 10,
+            "date": "01-01-2021"
+        },
+        {
+            "id": 3,
+            "name": "sow",
+            "amount": 1200,
+            "date": "01-05-2002"
+        },
+        {
+            "id": 4,
+            "name": "abcfd",
+            "amount": 200,
+            "date": "05-01-2018"
+        }
+    ]
+}
